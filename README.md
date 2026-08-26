@@ -19,6 +19,9 @@ The goal of the project was not just to demonstate technical skills but to solve
 ├── 01_data_cleaning.sql        -- Audit raw table, validate, build clean staging table
 ├── 02_analysis_queries.sql     -- 9 business questions across 4 sections
 ├── 03_dashboard.pbix           -- Power BI dashboard displaying insights
+├── screenshots/
+│   ├── page1_executive_overview.png
+│   └── page2_customer_revenue_analysis.png
 └── README.md
 ```
 
