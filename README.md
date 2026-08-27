@@ -65,7 +65,7 @@ Ten queries across four sections, each with a written insight:
 - Cumulative churn rate by tenure month (CTE + `SUM() OVER()` running total)
 - Churn reason comparison (CTE + `LAG()` to compare each reason against the next)
 
-**SQL techniques demonstrated:** CTEs, window functions (`RANK()`, `SUM() OVER()`, `LAG()`), `CASE WHEN` segmentation and cohorting, dynamic subquery benchmarks, defensive `ELSE 0` handling in aggregates.
+**SQL techniques demonstrated:** CTEs, window functions (`RANK()`, `SUM() OVER()`), `CASE WHEN` segmentation and cohorting, dynamic subquery benchmarks, defensive `ELSE 0` handling in aggregates.
 
 ## Key findings
 
@@ -86,12 +86,6 @@ A Power BI dashboard (`03_dashboard.pbix`) sits on top of `stg_telco_clean` (con
 - Tenure cohort breakdown (early-tenure churn window)
 - Revenue-at-risk by segment, drillable by contract × internet service
 
-**[\[https://app.powerbi.com/groups/me/reports/de930586-c2d1-40c6-b46e-e6aee0ee2926/ce3c0400b59f4de762e3?experience=power-bi ]\]**
-
-## Next steps
-
-- README-linked walkthrough video
-- Additional portfolio project(s) building on this workflow
 
 ---
 **Analyst:** Stanley Odimegwu
