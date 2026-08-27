@@ -86,6 +86,5 @@ A Power BI dashboard (`03_dashboard.pbix`) sits on top of `stg_telco_clean` (con
 - Tenure cohort breakdown (early-tenure churn window)
 - Revenue-at-risk by segment, drillable by contract × internet service
 
-
 ---
 **Analyst:** Stanley Odimegwu
