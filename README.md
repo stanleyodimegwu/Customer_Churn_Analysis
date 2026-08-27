@@ -20,8 +20,8 @@ The goal of the project was not just to demonstate technical skills but to solve
 ├── 02_analysis_queries.sql     -- 9 business questions across 4 sections
 ├── 03_dashboard.pbix           -- Power BI dashboard displaying insights
 ├── screenshots/
-│   ├── page1_executive_overview.png
-│   └── page2_customer_revenue_analysis.png
+│   ├── page1_executive_overview.jpg
+│   └── page2_customer_revenue_analysis.jpg
 └── README.md
 ```
 
