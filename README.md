@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis (Google BigQuery / SQL)
 
-End-to-end churn analysis on the IBM Telco Customer Churn dataset (7,043 customers), built entirely in Google BigQuery SQL — from raw data audit through cleaning, staging, and business-focused analysis.
+End-to-end churn analysis on the IBM Telco Customer Churn dataset (7,043 customers), built entirely in Google BigQuery SQL from raw data audit through cleaning, staging, and business-focused analysis.
 
 ## Why this project
 
